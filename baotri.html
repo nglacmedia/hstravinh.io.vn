@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang web đang bảo trì - hstravinh.io.vn</title>
+    <style>
+        /* Các biến màu tương tự như style.css để giữ sự nhất quán */
+        :root {
+            --main-blue: #007acc;
+            --bg-white: #ffffff;
+            --text-color: #003366;
+            --shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            --border-radius: 8px;
+        }
+
+        body {
+            font-family: 'Roboto', sans-serif;
+            display: flex; /* Dùng flexbox để căn giữa nội dung */
+            justify-content: center; /* Căn giữa theo chiều ngang */
+            align-items: center; /* Căn giữa theo chiều dọc */
+            min-height: 100vh; /* Đảm bảo trang chiếm toàn bộ chiều cao màn hình */
+            background-color: #f0f2f5; /* Màu nền nhẹ nhàng */
+            color: var(--text-color);
+            text-align: center; /* Căn giữa văn bản */
+            margin: 0;
+            padding: 20px; /* Thêm padding tổng thể để nội dung không chạm mép */
+            box-sizing: border-box; /* Đảm bảo padding không làm tràn khung */
+        }
+        .container {
+            background-color: var(--bg-white);
+            padding: 40px 60px;
+            border-radius: var(--border-radius);
+            box-shadow: var(--shadow);
+            max-width: 600px; /* Giới hạn chiều rộng cho nội dung */
+            width: 100%; /* Đảm bảo chiếm đủ chiều rộng trong giới hạn */
+        }
+        h1 {
+            color: var(--main-blue);
+            font-size: 3em; /* Kích thước chữ lớn cho tiêu đề chính */
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .contact {
+            font-size: 1em;
+            color: #666; /* Màu chữ xám hơn cho thông tin liên hệ */
+        }
+        .contact a {
+            color: var(--main-blue);
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .contact a:hover {
+            text-decoration: underline;
+        }
+
+        /* Responsive cho màn hình nhỏ hơn */
+        @media (max-width: 600px) {
+            .container {
+                padding: 30px 20px; /* Giảm padding trên màn hình nhỏ */
+            }
+            h1 {
+                font-size: 2.2em; /* Giảm kích thước tiêu đề */
+            }
+            p {
+                font-size: 1em; /* Giảm kích thước đoạn văn */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Trang web đang bảo trì</h1>
+        <p>Chúng tôi đang thực hiện một số nâng cấp quan trọng để mang lại trải nghiệm tốt hơn cho bạn.</p>
+        <p>Xin vui lòng quay lại sau ít phút. Chúng tôi sẽ trở lại sớm nhất có thể!</p>
+        <div class="contact">
+            <p>Mọi thắc mắc, vui lòng liên hệ: <a href="mailto:contact@hstravinh.io.vn">contact@hstravinh.io.vn</a></p>
+        </div>
+    </div>
+</body>
+</html>
