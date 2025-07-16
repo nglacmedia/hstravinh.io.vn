@@ -1,1 +1,4370 @@
-
+[
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": "Trường: THCS NGŨ LẠC",
+  "Column5": "DANH SÁCH KỲ THI TUYỂN SINH LỚP 10 "
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": "Khóa ngày: 05\/06\/2025",
+  "Column5": "NĂM HỌC 2025 - 2026"
+ },
+ null,
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": "STT",
+  "Column2": "Số\nBD",
+  "Column3": "Họ và tên thí sinh",
+  "Column5": "Ngày sinh",
+  "Column6": "Nơi sinh",
+  "Column7": "Giới\ntính",
+  "Column8": "Dân\ntộc",
+  "Column9": "Học sinh trường",
+  "Column10": "Điểm\nƯT",
+  "Column11": "Điểm\nKK",
+  "Column12": "Điểm thi",
+  "Column15": "Tổng\nđiểm",
+  "Column16": "Ghi \nchú"
+ },
+ {
+  "Column12": "Văn",
+  "Column13": "Tiếng\nAnh",
+  "Column14": "Toán"
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 1,
+  "Column2": 32001,
+  "Column3": "Mai Thị Ái",
+  "Column4": "Ái",
+  "Column5": "12\/05\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.75,
+  "Column13": 2.5,
+  "Column14": 6,
+  "Column15": 17.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 2,
+  "Column2": 32002,
+  "Column3": "Sơn Trường",
+  "Column4": "An",
+  "Column5": "5\/30\/2009",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.5,
+  "Column13": 2.5,
+  "Column14": 4.5,
+  "Column15": 16.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 4,
+  "Column2": 32004,
+  "Column3": "Thạch Minh",
+  "Column4": "Anh",
+  "Column5": "8\/23\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7,
+  "Column13": 1.5,
+  "Column14": 5.75,
+  "Column15": 15.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 6,
+  "Column2": 32006,
+  "Column3": "Kiên Thị Bé",
+  "Column4": "Ba",
+  "Column5": "02\/12\/2009",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.5,
+  "Column13": 2.75,
+  "Column14": 2.75,
+  "Column15": 13
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 7,
+  "Column2": 32007,
+  "Column3": "Thạch Thị Kim",
+  "Column4": "Ba",
+  "Column5": "7\/9\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7,
+  "Column13": 1.25,
+  "Column14": 2.5,
+  "Column15": 11.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 8,
+  "Column2": 32008,
+  "Column3": "Nguyễn Trung",
+  "Column4": "Bảo",
+  "Column5": "6\/9\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 1.75,
+  "Column14": 0.25,
+  "Column15": 8
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 9,
+  "Column2": 32009,
+  "Column3": "Thạch Thị",
+  "Column4": "Bích",
+  "Column5": "8\/16\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.25,
+  "Column13": 3.75,
+  "Column14": 4,
+  "Column15": 15
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 10,
+  "Column2": 32010,
+  "Column3": "Thạch Thái",
+  "Column4": "Bình",
+  "Column5": "2\/2\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7,
+  "Column13": 2.5,
+  "Column14": 6.25,
+  "Column15": 16.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 11,
+  "Column2": 32011,
+  "Column3": "Nguyễn Chí",
+  "Column4": "Cường",
+  "Column5": "28\/03\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": "vắng",
+  "Column13": "vắng",
+  "Column14": "vắng"
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 12,
+  "Column2": 32012,
+  "Column3": "Thạch Minh",
+  "Column4": "Chánh",
+  "Column5": "7\/28\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8,
+  "Column13": 3,
+  "Column14": 4.25,
+  "Column15": 16.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 13,
+  "Column2": 32013,
+  "Column3": "Thạch Ngọc Bảo",
+  "Column4": "Chấn",
+  "Column5": "9\/25\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.75,
+  "Column13": 2.75,
+  "Column14": 4.25,
+  "Column15": 16.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 15,
+  "Column2": 32015,
+  "Column3": "Dương Tấn",
+  "Column4": "Dũng",
+  "Column5": "11\/12\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer ",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7,
+  "Column13": 1.5,
+  "Column14": 5.25,
+  "Column15": 14.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 16,
+  "Column2": 32016,
+  "Column3": "Kiên Kỳ",
+  "Column4": "Duyên",
+  "Column5": "31\/01\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7,
+  "Column13": 1.75,
+  "Column14": 2.25,
+  "Column15": 12
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 18,
+  "Column2": 32018,
+  "Column3": "Kiên Thị Line",
+  "Column4": "Đa",
+  "Column5": "10\/10\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.5,
+  "Column13": 3,
+  "Column14": 3.5,
+  "Column15": 15
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 19,
+  "Column2": 32019,
+  "Column3": "Sơn Long",
+  "Column4": "Đa",
+  "Column5": "11\/25\/2010",
+  "Column6": "Tỉnh Sóc Trăng",
+  "Column7": "Nam ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.25,
+  "Column13": 3,
+  "Column14": 3.5,
+  "Column15": 15.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 20,
+  "Column2": 32020,
+  "Column3": "Huỳnh Đinh",
+  "Column4": "Đan",
+  "Column5": "1\/1\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ ",
+  "Column8": "Kinh ",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8,
+  "Column13": 4.5,
+  "Column14": 6.25,
+  "Column15": 19.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 21,
+  "Column2": 32021,
+  "Column3": "Nguyễn Thành",
+  "Column4": "Đạt",
+  "Column5": "3\/25\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 9,
+  "Column13": 4.5,
+  "Column14": 8.75,
+  "Column15": 23.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 22,
+  "Column2": 32022,
+  "Column3": "Nguyễn Phúc",
+  "Column4": "Điền",
+  "Column5": "1\/14\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6,
+  "Column13": 1.25,
+  "Column14": 1,
+  "Column15": 9.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 23,
+  "Column2": 32023,
+  "Column3": "Kiên Kim",
+  "Column4": "Đô",
+  "Column5": "5\/9\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 9,
+  "Column13": 2.5,
+  "Column14": 6.25,
+  "Column15": 18.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 24,
+  "Column2": 32024,
+  "Column3": "Thạch Sang",
+  "Column4": "Đông",
+  "Column5": "18\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.25,
+  "Column13": 2,
+  "Column14": 5,
+  "Column15": 15.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 25,
+  "Column2": 32025,
+  "Column3": "Thạch Tú",
+  "Column4": "Em",
+  "Column5": "19\/9\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.5,
+  "Column13": 2,
+  "Column14": 2,
+  "Column15": 10.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 26,
+  "Column2": 32026,
+  "Column3": "Trầm Thị Ngọc",
+  "Column4": "Giàu",
+  "Column5": "22\/09\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.5,
+  "Column13": 2.5,
+  "Column14": 4.5,
+  "Column15": 15.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 27,
+  "Column2": 32027,
+  "Column3": "Thạch Tiến",
+  "Column4": "Hà",
+  "Column5": "4\/29\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6,
+  "Column13": 3.25,
+  "Column14": 5.75,
+  "Column15": 16
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 28,
+  "Column2": 32028,
+  "Column3": "Thạch Dương Ngọc",
+  "Column4": "Hải",
+  "Column5": "10\/22\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6,
+  "Column13": 3.75,
+  "Column14": 4.5,
+  "Column15": 15.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 29,
+  "Column2": 32029,
+  "Column3": "Thạch Huỳnh Thanh",
+  "Column4": "Hải",
+  "Column5": "7\/1\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.75,
+  "Column13": 4,
+  "Column14": 5,
+  "Column15": 16.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 32,
+  "Column2": 32032,
+  "Column3": "Huỳnh Thị Ngọc",
+  "Column4": "Hân",
+  "Column5": "4\/14\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 9,
+  "Column13": 3.75,
+  "Column14": 7,
+  "Column15": 20.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 33,
+  "Column2": 32033,
+  "Column3": "Lý Thị Hân",
+  "Column4": "Hân",
+  "Column5": "1\/15\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.75,
+  "Column13": 1.75,
+  "Column14": 4.25,
+  "Column15": 12.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 34,
+  "Column2": 32034,
+  "Column3": "Nguyễn Gia",
+  "Column4": "Hân",
+  "Column5": "06\/10\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.75,
+  "Column13": 5.75,
+  "Column14": 8.75,
+  "Column15": 24.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 35,
+  "Column2": 32035,
+  "Column3": "Bành Thị Thu",
+  "Column4": "Hiền",
+  "Column5": "14\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.25,
+  "Column14": 1.25,
+  "Column15": 9.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 37,
+  "Column2": 32037,
+  "Column3": "Lê Phước",
+  "Column4": "Hiệp",
+  "Column5": "26\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6,
+  "Column13": 2.75,
+  "Column14": 4,
+  "Column15": 13.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 38,
+  "Column2": 32038,
+  "Column3": "Nguyễn Thanh",
+  "Column4": "Hiếu",
+  "Column5": "9\/29\/2009",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.75,
+  "Column13": 2.75,
+  "Column14": 5.5,
+  "Column15": 15
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 39,
+  "Column2": 32039,
+  "Column3": "Thạch Thị Ngọc",
+  "Column4": "Hoa",
+  "Column5": "24\/01\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.5,
+  "Column13": 2.25,
+  "Column14": 2.5,
+  "Column15": 13.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 40,
+  "Column2": 32040,
+  "Column3": "Cao Minh",
+  "Column4": "Hoàng",
+  "Column5": "26\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.5,
+  "Column13": 3.75,
+  "Column14": 6.75,
+  "Column15": 20
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 41,
+  "Column2": 32041,
+  "Column3": "Lã Việt",
+  "Column4": "Hoàng",
+  "Column5": "06\/03\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.25,
+  "Column13": 3,
+  "Column14": 4.5,
+  "Column15": 15.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 42,
+  "Column2": 32042,
+  "Column3": "Phạm Thị",
+  "Column4": "Hồng",
+  "Column5": "22\/9\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.75,
+  "Column13": 1.75,
+  "Column14": 3.75,
+  "Column15": 14.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 43,
+  "Column2": 32043,
+  "Column3": "Thạch Thanh",
+  "Column4": "Hồng",
+  "Column5": "11\/12\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.25,
+  "Column13": 1.75,
+  "Column14": 0.25,
+  "Column15": 9.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 44,
+  "Column2": 32044,
+  "Column3": "Tăng Mình",
+  "Column4": "Hùng",
+  "Column5": "8\/18\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Mam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.5,
+  "Column13": 2,
+  "Column14": 1.5,
+  "Column15": 11
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 45,
+  "Column2": 32045,
+  "Column3": "Kiên Lâm",
+  "Column4": "Huy",
+  "Column5": "9\/23\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.75,
+  "Column13": 2.25,
+  "Column14": 2,
+  "Column15": 13
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 46,
+  "Column2": 32046,
+  "Column3": "Nguyễn Trường",
+  "Column4": "Huy",
+  "Column5": "04\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.25,
+  "Column13": 3.75,
+  "Column14": 4.25,
+  "Column15": 17.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 48,
+  "Column2": 32048,
+  "Column3": "Thạch Thị Mỹ",
+  "Column4": "Huyền",
+  "Column5": "01\/07\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.5,
+  "Column13": 1.5,
+  "Column14": 0.5,
+  "Column15": 9.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 49,
+  "Column2": 32049,
+  "Column3": "Trần Tấn",
+  "Column4": "Huỳnh",
+  "Column5": "3\/3\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.75,
+  "Column13": 4.25,
+  "Column14": 7.25,
+  "Column15": 21.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 50,
+  "Column2": 32050,
+  "Column3": "Thạch Thị Ngọc",
+  "Column4": "Hương",
+  "Column5": "11\/25\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.25,
+  "Column13": 2.75,
+  "Column14": 6.25,
+  "Column15": 17.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 52,
+  "Column2": 32052,
+  "Column3": "Cô Bá",
+  "Column4": "Kiệt",
+  "Column5": "16\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7,
+  "Column13": 2.5,
+  "Column14": 3.5,
+  "Column15": 14
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 53,
+  "Column2": 32053,
+  "Column3": "Sơn Anh",
+  "Column4": "Kiệt",
+  "Column5": "03\/01\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.75,
+  "Column13": 2,
+  "Column14": 5.25,
+  "Column15": 14
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 54,
+  "Column2": 32054,
+  "Column3": "Thạch Hào",
+  "Column4": "Kiệt",
+  "Column5": "15\/07\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 2,
+  "Column13": 2,
+  "Column14": 0.25,
+  "Column15": 5.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 55,
+  "Column2": 32055,
+  "Column3": "Dương Văn",
+  "Column4": "Khang",
+  "Column5": "12\/12\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.75,
+  "Column13": 1.75,
+  "Column14": 6.5,
+  "Column15": 17
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 56,
+  "Column2": 32056,
+  "Column3": "Kiên Minh",
+  "Column4": "Khang",
+  "Column5": "20\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.75,
+  "Column13": 1.5,
+  "Column14": 2.5,
+  "Column15": 11.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 57,
+  "Column2": 32057,
+  "Column3": "Nguyễn Trọng",
+  "Column4": "Khang",
+  "Column5": "14\/04\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.25,
+  "Column13": 5.5,
+  "Column14": 6.75,
+  "Column15": 20.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 58,
+  "Column2": 32058,
+  "Column3": "Thạch Minh",
+  "Column4": "Khang",
+  "Column5": "10\/8\/2009",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6,
+  "Column13": 1.5,
+  "Column14": 2.75,
+  "Column15": 11.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 59,
+  "Column2": 32059,
+  "Column3": "Trương Tuấn",
+  "Column4": "Khang",
+  "Column5": "9\/26\/2009",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.75,
+  "Column13": 1,
+  "Column14": 4.75,
+  "Column15": 12.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 60,
+  "Column2": 32060,
+  "Column3": "Kim Duy",
+  "Column4": "Khánh",
+  "Column5": "03\/06\/2009",
+  "Column6": "Tỉnh Bến Tre",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.5,
+  "Column13": 1,
+  "Column14": 3.5,
+  "Column15": 11
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 61,
+  "Column2": 32061,
+  "Column3": "Nguyễn Duy",
+  "Column4": "Khánh",
+  "Column5": "20\/08\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.5,
+  "Column14": 1.75,
+  "Column15": 10.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 62,
+  "Column2": 32062,
+  "Column3": "Thạch Thị Sóc",
+  "Column4": "Khây",
+  "Column5": "2\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.75,
+  "Column13": 1.75,
+  "Column14": 2,
+  "Column15": 10.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 63,
+  "Column2": 32063,
+  "Column3": "Kiên Tô",
+  "Column4": "La",
+  "Column5": "30\/09\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.75,
+  "Column13": 2.25,
+  "Column14": 3.25,
+  "Column15": 12.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 64,
+  "Column2": 32064,
+  "Column3": "Kim Sa Van Vi",
+  "Column4": "Lai",
+  "Column5": "13\/10\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.5,
+  "Column13": 3.75,
+  "Column14": 3.5,
+  "Column15": 13.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 65,
+  "Column2": 32065,
+  "Column3": "Phạm Nguyễn Tường",
+  "Column4": "Lam",
+  "Column5": "25\/06\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.75,
+  "Column13": 4,
+  "Column14": 3.75,
+  "Column15": 15.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 66,
+  "Column2": 32066,
+  "Column3": "Thạch Minh Nhật",
+  "Column4": "Lan",
+  "Column5": "18\/02\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.75,
+  "Column14": 1.5,
+  "Column15": 10.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 67,
+  "Column2": 32067,
+  "Column3": "Thạch Thị",
+  "Column4": "Liêm",
+  "Column5": "6\/26\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7,
+  "Column13": 2.5,
+  "Column14": 6.25,
+  "Column15": 16.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 69,
+  "Column2": 32069,
+  "Column3": "Thạch",
+  "Column4": "LinĐa",
+  "Column5": "10\/11\/2008",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6,
+  "Column13": 1.5,
+  "Column14": 2,
+  "Column15": 10.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 70,
+  "Column2": 32070,
+  "Column3": "Dương Thị Yến",
+  "Column4": "Linh",
+  "Column5": "4\/21\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.5,
+  "Column13": 2.25,
+  "Column14": 2.75,
+  "Column15": 12.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 71,
+  "Column2": 32071,
+  "Column3": "Thạch",
+  "Column4": "Linh",
+  "Column5": "14\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8,
+  "Column13": 2.25,
+  "Column14": 4.5,
+  "Column15": 15.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 72,
+  "Column2": 32072,
+  "Column3": "Thạch Ngọc",
+  "Column4": "Linh",
+  "Column5": "07\/01\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.5,
+  "Column13": 1.75,
+  "Column14": 3.25,
+  "Column15": 12.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 73,
+  "Column2": 32073,
+  "Column3": "Thạch Thị Mai",
+  "Column4": "Linh",
+  "Column5": "19\/05\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.25,
+  "Column14": 3.75,
+  "Column15": 12
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 74,
+  "Column2": 32074,
+  "Column3": "Thạch Thị Thủy",
+  "Column4": "Linh",
+  "Column5": "08\/12\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 1.25,
+  "Column14": 4.25,
+  "Column15": 11.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 75,
+  "Column2": 32075,
+  "Column3": "Kim Bảo",
+  "Column4": "Lộc",
+  "Column5": "25\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.75,
+  "Column13": 2.25,
+  "Column14": 1,
+  "Column15": 10
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 76,
+  "Column2": 32076,
+  "Column3": "Thạch Thanh",
+  "Column4": "Lời",
+  "Column5": "30\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": "vắng",
+  "Column13": "vắng",
+  "Column14": "vắng"
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 78,
+  "Column2": 32078,
+  "Column3": "Thạch Khánh",
+  "Column4": "Luân",
+  "Column5": "26\/05\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2,
+  "Column14": 0.75,
+  "Column15": 8.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 79,
+  "Column2": 32079,
+  "Column3": "Thạch Quanh",
+  "Column4": "Lư",
+  "Column5": "13\/08\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.75,
+  "Column13": 1.75,
+  "Column14": 3.75,
+  "Column15": 13.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 82,
+  "Column2": 32082,
+  "Column3": "Lâm Thị Ngọc",
+  "Column4": "Mai",
+  "Column5": "02\/04\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 9,
+  "Column13": 7.25,
+  "Column14": 7.75,
+  "Column15": 25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 83,
+  "Column2": 32083,
+  "Column3": "Lâm Thị Tú",
+  "Column4": "Mai",
+  "Column5": "06\/09\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7,
+  "Column13": 2,
+  "Column14": 5.5,
+  "Column15": 15.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 86,
+  "Column2": 32086,
+  "Column3": "Thạch Thị Ngọc",
+  "Column4": "Mai",
+  "Column5": "01\/06\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 4,
+  "Column13": 2.25,
+  "Column14": 1.25,
+  "Column15": 8.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 88,
+  "Column2": 32088,
+  "Column3": "Thạch Thị Tuyết",
+  "Column4": "Mai",
+  "Column5": "7\/25\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.75,
+  "Column14": 3,
+  "Column15": 11.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 89,
+  "Column2": 32089,
+  "Column3": "Thạch Thị Xuân",
+  "Column4": "Mai",
+  "Column5": "10\/28\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.25,
+  "Column13": 2.25,
+  "Column14": 1.75,
+  "Column15": 11.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 90,
+  "Column2": 32090,
+  "Column3": "Thạch Thị Sa",
+  "Column4": "Mane",
+  "Column5": "21\/09\/2009",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.5,
+  "Column13": 4.5,
+  "Column14": 1.75,
+  "Column15": 13.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 92,
+  "Column2": 32092,
+  "Column3": "Ngô Thị",
+  "Column4": "Mẫn",
+  "Column5": "30\/04\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.5,
+  "Column13": 2.25,
+  "Column14": 3.25,
+  "Column15": 14
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 94,
+  "Column2": 32094,
+  "Column3": "Nguyễn Hoàng Ái",
+  "Column4": "Mi",
+  "Column5": "29\/03\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.25,
+  "Column13": 2.25,
+  "Column14": 7,
+  "Column15": 16.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 95,
+  "Column2": 32095,
+  "Column3": "Phạm Đức",
+  "Column4": "Minh",
+  "Column5": "14\/03\/2010",
+  "Column6": "Tỉnh Tiền Giang",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.75,
+  "Column14": 1.75,
+  "Column15": 10.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 96,
+  "Column2": 32096,
+  "Column3": "Thạch Duy",
+  "Column4": "Minh",
+  "Column5": "16\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.75,
+  "Column14": 1.75,
+  "Column15": 10.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 97,
+  "Column2": 32097,
+  "Column3": "Thạch Thị Sa",
+  "Column4": "Mon",
+  "Column5": "09\/06\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 3,
+  "Column14": 4.75,
+  "Column15": 13.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 98,
+  "Column2": 32098,
+  "Column3": "Đỗ Dương Trà",
+  "Column4": "My",
+  "Column5": "03\/07\/2010",
+  "Column6": "Tỉnh Bà Rịa Vũng Tàu",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.25,
+  "Column13": 3.75,
+  "Column14": 6,
+  "Column15": 16
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 100,
+  "Column2": 32100,
+  "Column3": "Kim Thị Khặc",
+  "Column4": "Na",
+  "Column5": "28\/06\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.25,
+  "Column13": 2.75,
+  "Column14": 1.25,
+  "Column15": 10.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 101,
+  "Column2": 32101,
+  "Column3": "Kiên Hoài ",
+  "Column4": "Nam",
+  "Column5": "10\/2\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": "vắng",
+  "Column13": "vắng",
+  "Column14": "vắng"
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 102,
+  "Column2": 32102,
+  "Column3": "Sơn Hoàng",
+  "Column4": "Nam",
+  "Column5": "09\/10\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2,
+  "Column14": 2.5,
+  "Column15": 10.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 104,
+  "Column2": 32104,
+  "Column3": "Dương Thị Kiều",
+  "Column4": "Ninh",
+  "Column5": "4\/23\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.75,
+  "Column13": 3.5,
+  "Column14": 2,
+  "Column15": 12.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 105,
+  "Column2": 32105,
+  "Column3": "Thạch Thị Huỳnh",
+  "Column4": "Nga",
+  "Column5": "21\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.5,
+  "Column13": 3.25,
+  "Column14": 5.5,
+  "Column15": 15.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 106,
+  "Column2": 32106,
+  "Column3": "Trần Thị Kim",
+  "Column4": "Ngân",
+  "Column5": "24\/07\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.5,
+  "Column13": 3.75,
+  "Column14": 7,
+  "Column15": 18.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 108,
+  "Column2": 32108,
+  "Column3": "Lâm Thanh",
+  "Column4": "Nguyên",
+  "Column5": "27\/08\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.25,
+  "Column13": 3,
+  "Column14": 4.25,
+  "Column15": 16.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 109,
+  "Column2": 32109,
+  "Column3": "Nguyễn Trọng",
+  "Column4": "Nguyễn",
+  "Column5": "16\/08\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.75,
+  "Column13": 2.5,
+  "Column14": 7.75,
+  "Column15": 19
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 110,
+  "Column2": 32110,
+  "Column3": "Nguyễn Thanh",
+  "Column4": "Nhân",
+  "Column5": "25\/07\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.25,
+  "Column14": 4,
+  "Column15": 12.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 112,
+  "Column2": 32112,
+  "Column3": "Trần Thị Cẩm",
+  "Column4": "Nhung",
+  "Column5": "15\/05\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.25,
+  "Column13": 3,
+  "Column14": 5,
+  "Column15": 16.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 113,
+  "Column2": 32113,
+  "Column3": "Kiên Thị Huỳnh",
+  "Column4": "Như",
+  "Column5": "08\/12\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.5,
+  "Column13": 3.75,
+  "Column14": 2.25,
+  "Column15": 13.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 114,
+  "Column2": 32114,
+  "Column3": "Lâm Thị Hạnh ",
+  "Column4": "Như",
+  "Column5": "26\/12\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.25,
+  "Column13": 2.5,
+  "Column14": 0.75,
+  "Column15": 9.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 115,
+  "Column2": 32115,
+  "Column3": "Nguyễn Thạch Thảo",
+  "Column4": "Như",
+  "Column5": "08\/03\/2009",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.5,
+  "Column13": 3.25,
+  "Column14": 4,
+  "Column15": 13.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 116,
+  "Column2": 32116,
+  "Column3": "Kiên Hoài",
+  "Column4": "Phong",
+  "Column5": "08\/10\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.5,
+  "Column13": 3,
+  "Column14": 6.25,
+  "Column15": 16.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 117,
+  "Column2": 32117,
+  "Column3": "Thạch Huỳnh",
+  "Column4": "Phong",
+  "Column5": "26\/12\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.25,
+  "Column13": 3.5,
+  "Column14": 3.25,
+  "Column15": 14
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 118,
+  "Column2": 32118,
+  "Column3": "Trần Thế",
+  "Column4": "Phong",
+  "Column5": "21\/01\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Chơ ro",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.25,
+  "Column13": 3.5,
+  "Column14": 3.75,
+  "Column15": 14.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 120,
+  "Column2": 32120,
+  "Column3": "Sơn Minh",
+  "Column4": "Phúc",
+  "Column5": "5\/25\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6,
+  "Column13": 3,
+  "Column14": 6,
+  "Column15": 16
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 121,
+  "Column2": 32121,
+  "Column3": "Tạ Hoàng",
+  "Column4": "Phúc",
+  "Column5": "18\/09\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.25,
+  "Column14": 2.5,
+  "Column15": 10.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 122,
+  "Column2": 32122,
+  "Column3": "Thạch Thị",
+  "Column4": "Phúc",
+  "Column5": "10\/20\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.25,
+  "Column13": 3,
+  "Column14": 2.75,
+  "Column15": 13
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 123,
+  "Column2": 32123,
+  "Column3": "Cô Đặng Trúc",
+  "Column4": "Phương",
+  "Column5": "9\/16\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 9,
+  "Column13": 7.75,
+  "Column14": 8.25,
+  "Column15": 26
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 124,
+  "Column2": 32124,
+  "Column3": "Cô Thị Hồng",
+  "Column4": "Phượng",
+  "Column5": "02\/05\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.75,
+  "Column13": 5.75,
+  "Column14": 7,
+  "Column15": 22.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 127,
+  "Column2": 32127,
+  "Column3": "Lâm Tài",
+  "Column4": "Quý",
+  "Column5": "24\/5\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.5,
+  "Column13": 1.5,
+  "Column14": 3.25,
+  "Column15": 12.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 128,
+  "Column2": 32128,
+  "Column3": "Thạch Thị Tha",
+  "Column4": "Ri",
+  "Column5": "28\/5\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": " Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.5,
+  "Column13": 3.5,
+  "Column14": 7,
+  "Column15": 20
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 129,
+  "Column2": 32129,
+  "Column3": "Thach",
+  "Column4": "Rô",
+  "Column5": "2\/22\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.5,
+  "Column13": 2.75,
+  "Column14": 1.5,
+  "Column15": 12.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 130,
+  "Column2": 32130,
+  "Column3": "Thạch Châm",
+  "Column4": "Rông",
+  "Column5": "15\/04\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6,
+  "Column13": 2,
+  "Column14": 1,
+  "Column15": 10
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 131,
+  "Column2": 32131,
+  "Column3": "Thạch Thị Sô Ni",
+  "Column4": "Ta",
+  "Column5": "9\/22\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.75,
+  "Column13": 3.75,
+  "Column14": 1.75,
+  "Column15": 12.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 132,
+  "Column2": 32132,
+  "Column3": "Thạch Phát",
+  "Column4": "Tài",
+  "Column5": "18\/12\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.5,
+  "Column13": 3.75,
+  "Column14": 5.25,
+  "Column15": 16.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 133,
+  "Column2": 32133,
+  "Column3": "Thạch Văn",
+  "Column4": "Tài",
+  "Column5": "13\/05\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.5,
+  "Column14": 2.25,
+  "Column15": 10.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 134,
+  "Column2": 32134,
+  "Column3": "Dương Minh",
+  "Column4": "Tiến",
+  "Column5": "24\/01\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.75,
+  "Column13": 3,
+  "Column14": 8,
+  "Column15": 18.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 135,
+  "Column2": 32135,
+  "Column3": "Thạch Minh",
+  "Column4": "Tú",
+  "Column5": "19\/10\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.5,
+  "Column13": 1.5,
+  "Column14": 4,
+  "Column15": 14
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 136,
+  "Column2": 32136,
+  "Column3": "Trần Minh",
+  "Column4": "Tuấn",
+  "Column5": "28\/06\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.5,
+  "Column13": 1.75,
+  "Column14": 0.5,
+  "Column15": 8.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 137,
+  "Column2": 32137,
+  "Column3": "Thạch Thị Bích",
+  "Column4": "Tuyền",
+  "Column5": "29\/10\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 3,
+  "Column14": 0.75,
+  "Column15": 9.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 138,
+  "Column2": 32138,
+  "Column3": "Thạch Thị Thanh",
+  "Column4": "Tuyền",
+  "Column5": "08\/12\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.5,
+  "Column13": 1.75,
+  "Column14": 5.75,
+  "Column15": 15
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 139,
+  "Column2": 32139,
+  "Column3": "Kiên Thị Bé",
+  "Column4": "Tư",
+  "Column5": "02\/12\/2009",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.75,
+  "Column13": 2.5,
+  "Column14": 2.25,
+  "Column15": 12.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 140,
+  "Column2": 32140,
+  "Column3": "Huỳnh Văn",
+  "Column4": "Tươi",
+  "Column5": "5\/26\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh ",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.75,
+  "Column14": 1,
+  "Column15": 9.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 141,
+  "Column2": 32141,
+  "Column3": "Nguyễn Thị Cát",
+  "Column4": "Tường",
+  "Column5": "14\/10\/2010",
+  "Column6": "Tỉnh Bến tre",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8,
+  "Column13": 1.75,
+  "Column14": 3.75,
+  "Column15": 14.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 142,
+  "Column2": 32142,
+  "Column3": "Thạch Hồng",
+  "Column4": "Thái",
+  "Column5": "1\/29\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 1.75,
+  "Column14": 2.25,
+  "Column15": 10
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 143,
+  "Column2": 32143,
+  "Column3": "Dương Tấn",
+  "Column4": "Thành",
+  "Column5": "27\/10\/2009",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": "vắng",
+  "Column13": "vắng",
+  "Column14": "vắng"
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 144,
+  "Column2": 32144,
+  "Column3": "Huỳnh Thạch",
+  "Column4": "Thảo",
+  "Column5": "15\/05\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.75,
+  "Column13": 2.5,
+  "Column14": 1.25,
+  "Column15": 11.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 145,
+  "Column2": 32145,
+  "Column3": "Kiên Thị",
+  "Column4": "Thảo",
+  "Column5": "04\/04\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.5,
+  "Column13": 2.5,
+  "Column14": 7,
+  "Column15": 18
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 146,
+  "Column2": 32146,
+  "Column3": "Thạch",
+  "Column4": "Thắng",
+  "Column5": "12\/12\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.75,
+  "Column14": 1.5,
+  "Column15": 10.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 147,
+  "Column2": 32147,
+  "Column3": "Thạch Thị Oanh",
+  "Column4": "Thi",
+  "Column5": "25\/04\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7,
+  "Column13": 3.25,
+  "Column14": 2.25,
+  "Column15": 13.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 148,
+  "Column2": 32148,
+  "Column3": "Thạch Thị Chanl Khọne",
+  "Column4": "Thia",
+  "Column5": "5\/4\/2010",
+  "Column6": "Tỉnh An Giang",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2.25,
+  "Column14": 4,
+  "Column15": 12.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 150,
+  "Column2": 32150,
+  "Column3": "Lâm Huỳnh Phúc",
+  "Column4": "Thịnh",
+  "Column5": "11\/08\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.5,
+  "Column13": 2.5,
+  "Column14": 5.25,
+  "Column15": 14.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 151,
+  "Column2": 32151,
+  "Column3": "Nguyễn Phước",
+  "Column4": "Thịnh",
+  "Column5": "11\/09\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.75,
+  "Column13": 2,
+  "Column14": 0.75,
+  "Column15": 9.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 152,
+  "Column2": 32152,
+  "Column3": "Lê Thị Kim",
+  "Column4": "Thoa",
+  "Column5": "29\/06\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.75,
+  "Column13": 2.5,
+  "Column14": 8,
+  "Column15": 20.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 153,
+  "Column2": 32153,
+  "Column3": "Kim Huỳnh",
+  "Column4": "Thone",
+  "Column5": "06\/12\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2,
+  "Column14": 3.5,
+  "Column15": 11.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 154,
+  "Column2": 32154,
+  "Column3": "Thạch Thị Hồng",
+  "Column4": "Thơ",
+  "Column5": "28\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6,
+  "Column13": 3.5,
+  "Column14": 2.25,
+  "Column15": 12.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 155,
+  "Column2": 32155,
+  "Column3": "Thạch Vĩnh",
+  "Column4": "Thuận",
+  "Column5": "06\/01\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 2,
+  "Column14": 2.5,
+  "Column15": 10.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 156,
+  "Column2": 32156,
+  "Column3": "Thạch Thị Bé",
+  "Column4": "Thúy",
+  "Column5": "27\/09\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5,
+  "Column13": 3.25,
+  "Column14": 1,
+  "Column15": 10.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 158,
+  "Column2": 32158,
+  "Column3": "Kiên Thanh",
+  "Column4": "Trà",
+  "Column5": "03\/07\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6,
+  "Column13": 2.5,
+  "Column14": 2.75,
+  "Column15": 12.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 159,
+  "Column2": 32159,
+  "Column3": "Ngô Mai",
+  "Column4": "Trang",
+  "Column5": "25\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.25,
+  "Column13": 1.5,
+  "Column14": 5.5,
+  "Column15": 15.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 160,
+  "Column2": 32160,
+  "Column3": "Nguyễn Thị Nhật",
+  "Column4": "Trang",
+  "Column5": "6\/9\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8,
+  "Column13": 2.25,
+  "Column14": 5.5,
+  "Column15": 16.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 163,
+  "Column2": 32163,
+  "Column3": "Đào Lê Bảo Ngọc Huyền",
+  "Column4": "Trân",
+  "Column5": "21\/03\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.75,
+  "Column13": 3.25,
+  "Column14": 7.25,
+  "Column15": 20.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 164,
+  "Column2": 32164,
+  "Column3": "Nguyễn Ngọc Ái",
+  "Column4": "Trân",
+  "Column5": "05\/12\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6,
+  "Column13": 2.5,
+  "Column14": 5,
+  "Column15": 14.5
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 165,
+  "Column2": 32165,
+  "Column3": "Thạch Sơn Phương",
+  "Column4": "Trinh",
+  "Column5": "15\/12\/2010",
+  "Column6": "Tỉnh Bình Phước",
+  "Column7": "Nữ",
+  "Column8": "Khmer",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.25,
+  "Column13": 4,
+  "Column14": 4.75,
+  "Column15": 17
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 166,
+  "Column2": 32166,
+  "Column3": "Châu Vĩnh",
+  "Column4": "Trọng",
+  "Column5": "29\/05\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.5,
+  "Column13": 2.5,
+  "Column14": 4.75,
+  "Column15": 13.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 168,
+  "Column2": 32168,
+  "Column3": "Bành Trung",
+  "Column4": "Trực",
+  "Column5": "01\/11\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nam",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6,
+  "Column13": 2.75,
+  "Column14": 2.25,
+  "Column15": 12
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 171,
+  "Column2": 32171,
+  "Column3": "Lê Phạm Kiều",
+  "Column4": "Vy",
+  "Column5": "06\/11\/2010",
+  "Column6": "T���nh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 5.75,
+  "Column13": 2,
+  "Column14": 6.25,
+  "Column15": 15
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 173,
+  "Column2": 32173,
+  "Column3": "Nguyễn Hà Thúy",
+  "Column4": "Vy",
+  "Column5": "5\/4\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7.75,
+  "Column13": 3.5,
+  "Column14": 8.5,
+  "Column15": 20.75
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 174,
+  "Column2": 32174,
+  "Column3": "Tạ Ngọc Yến",
+  "Column4": "Vy",
+  "Column5": "05\/03\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 7,
+  "Column13": 4.5,
+  "Column14": 6.75,
+  "Column15": 19.25
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 177,
+  "Column2": 32177,
+  "Column3": "Nguyễn Bảo",
+  "Column4": "Yến",
+  "Column5": "09\/06\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 6.75,
+  "Column13": 1.5,
+  "Column14": 5.75,
+  "Column15": 15
+ },
+ {
+  "Column2": 33013,
+  "Column3": "Trần Thái Trâm",
+  "Column4": "Anh",
+  "Column5": "29\/09\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column12": 7,
+  "Column13": 4.5,
+  "Column14": 6.25,
+  "Column15": 17.75
+ },
+ {
+  "Column2": 33049,
+  "Column3": "Ngô Lâm Ngọc",
+  "Column4": "Hân",
+  "Column5": "29\/09\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8.75,
+  "Column13": 6.75,
+  "Column14": 8.5,
+  "Column15": 25
+ },
+ {
+  "Column2": 33057,
+  "Column3": "Hàng Ngọc",
+  "Column4": "Hoa",
+  "Column5": "12\/2\/2010",
+  "Column6": "Tỉnh Trà Vinh",
+  "Column7": "Nữ",
+  "Column8": "Kinh",
+  "Column9": "THCS Ngũ Lạc",
+  "Column10": 1,
+  "Column12": 8,
+  "Column13": 9.5,
+  "Column14": 9.75,
+  "Column15": 28.25
+ },
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ null,
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 178,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 179,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 180,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 181,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 182,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 183,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 184,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 185,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 186,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 187,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 188,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 189,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 190,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 191,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 192,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 193,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 194,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 195,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 196,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 197,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 198,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 199,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 200,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 201,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 202,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 203,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 204,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 205,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 206,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 207,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 208,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 209,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 210,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 211,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 212,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 213,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 214,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 215,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 216,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 217,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 218,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 219,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 220,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 221,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 222,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 223,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 224,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 225,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 226,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 227,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 228,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 229,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 230,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 231,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 232,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 233,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 234,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 235,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 236,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 237,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 238,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 239,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 240,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 241,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 242,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 243,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 244,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 245,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 246,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 247,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 248,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 249,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 250,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 251,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 252,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 253,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 254,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 255,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 256,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 257,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 258,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 259,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 260,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 261,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 262,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 263,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 264,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 265,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 266,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 267,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 268,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 269,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 270,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 271,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 272,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 273,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 274,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 275,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 276,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 277,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 278,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 279,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 280,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 281,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 282,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 283,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 284,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 285,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 286,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 287,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 288,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 289,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 290,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 291,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 292,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 293,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 294,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 295,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 296,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 297,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 298,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 299,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 300,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 301,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 302,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 303,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 304,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 305,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 306,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 307,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 308,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 309,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 310,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 311,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 312,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 313,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 314,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 315,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 316,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 317,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 318,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 319,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 320,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 321,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 322,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 323,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 324,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 325,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 326,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 327,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 328,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 329,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 330,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 331,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 332,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 333,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 334,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 335,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 336,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 337,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 338,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 339,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 340,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 341,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 342,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 343,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 344,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 345,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 346,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 347,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 348,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 349,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 350,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 351,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 352,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 353,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 354,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 355,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 356,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 357,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 358,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 359,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 360,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 361,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 362,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 363,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 364,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 365,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 366,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 367,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 368,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 369,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 370,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 371,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 372,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 373,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 374,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 375,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 376,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 377,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 378,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 379,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 380,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 381,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 382,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 383,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 384,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 385,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 386,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 387,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 388,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 389,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 390,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 391,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 392,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 393,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 394,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 395,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 396,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 397,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 398,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 399,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 400,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 401,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 402,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 403,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 404,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 405,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 406,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 407,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 408,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 409,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 410,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 411,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 412,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 413,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 414,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 415,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 416,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 417,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 418,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 419,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 420,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 421,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 422,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 423,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 424,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 425,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 426,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 427,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 428,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 429,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 430,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 431,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 432,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 433,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 434,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 435,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 436,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 437,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 438,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 439,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 440,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 441,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 442,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 443,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 444,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 445,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 446,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 447,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 448,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 449,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 450,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 451,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 452,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 453,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 454,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 455,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 456,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 457,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 458,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 459,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 460,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 461,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 462,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 463,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 464,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 465,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 466,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 467,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 468,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 469,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 470,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 471,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 472,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 473,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 474,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 475,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 476,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 477,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 478,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 479,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 480,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 481,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 482,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 483,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 484,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 485,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 486,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 487,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 488,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 489,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 490,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 491,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 492,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 493,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 494,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 495,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 496,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 497,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 498,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 499,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 500,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 501,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 502,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 503,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 504,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 505,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 506,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 507,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 508,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 509,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 510,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 511,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 512,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 513,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 514,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 515,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 516,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 517,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 518,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 519,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 520,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 521,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 522,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 523,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 524,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 525,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 526,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 527,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 528,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 529,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 530,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 531,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 532,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 533,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 534,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 535,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 536,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 537,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 538,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 539,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 540,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 541,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 542,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 543,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 544,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 545,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 546,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 547,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 548,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 549,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 550,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 551,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 552,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 553,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 554,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 555,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 556,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 557,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 558,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 559,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 560,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 561,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 562,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 563,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 564,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 565,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 566,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 567,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 568,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 569,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 570,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 571,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 572,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 573,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 574,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 575,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 576,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 577,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 578,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 579,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 580,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 581,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 582,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 583,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 584,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 585,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 586,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 587,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 588,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 589,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 590,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 591,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 592,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 593,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 594,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 595,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 596,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 597,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 598,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 599,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 600,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 601,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 602,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 603,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 604,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 605,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 606,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 607,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 608,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 609,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 610,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 611,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 612,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 613,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 614,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 615,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 616,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 617,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 618,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 619,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 620,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 621,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 622,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 623,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 624,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 625,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 626,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 627,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 628,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 629,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 630,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 631,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 632,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 633,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 634,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 635,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 636,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 637,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 638,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 639,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 640,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 641,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 642,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 643,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 644,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 645,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 646,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 647,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 648,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 649,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 650,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 651,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 652,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 653,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 654,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 655,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 656,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 657,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 658,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 659,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 660,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 661,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 662,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 663,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 664,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 665,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 666,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 667,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 668,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 669,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 670,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 671,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 672,
+  "Column15": 0
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": 673,
+  "Column15": 0
+ },
+ null,
+ {
+  "Column9": "Trà Vinh, ngày      tháng 6 năm 2025"
+ },
+ {
+  "Sở Giáo Dục & Đào Tạo Trà Vinh": "Người lập bảng",
+  "Column9": "HIỆU TRƯỞNG"
+ },
+ {
+  "Column9": "(Ký tên, đóng dấu)"
+ }
+]
