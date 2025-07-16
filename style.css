@@ -15,8 +15,7 @@ footer {
   text-align: center;
   padding: 10px;
 }
-/* Thêm vào style.css */
-.button-link {
+button-link {
     display: inline-block;
     background-color: var(--main-blue);
     color: white;
@@ -26,6 +25,6 @@ footer {
     transition: background 0.3s ease;
 }
 
-.button-link:hover {
+button-link:hover {
     background-color: var(--hover-blue);
 }
