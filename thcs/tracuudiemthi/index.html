@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tra cứu điểm tuyển sinh THPT Sơn Cần 2025</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background: #f6f8fa; }
+    h1 { text-align: center; }
+    input { padding: 10px; width: 100%; margin-bottom: 20px; font-size: 16px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: center; }
+    th { background-color: #2b6cb0; color: white; }
+    tr:nth-child(even) { background-color: #f2f2f2; }
+    .note { text-align: center; font-style: italic; margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <h1>Tra cứu điểm tuyển sinh lớp 10 - THPT Sơn Cần 2025</h1>
+
+  <input type="text" id="searchBox" placeholder="Nhập tên hoặc số báo danh..."/>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Hạng</th>
+        <th>SBD</th>
+        <th>Họ tên</th>
+        <th>Trường THCS</th>
+        <th>Văn</th>
+        <th>Toán</th>
+        <th>Anh</th>
+        <th>Tổng điểm</th>
+      </tr>
+    </thead>
+    <tbody id="resultTable"></tbody>
+  </table>
+
+  <div class="note">Nguồn: Trường THPT Sơn Cần - Sở GDĐT Trà Vinh</div>
+
+  <script>
+    let data = [];
+
+    async function fetchData() {
+      const response = await fetch("son_cang_diem2025.json");
+      data = await response.json();
+      data.sort((a, b) => b.Tong_Diem - a.Tong_Diem); // sort by total score
+      renderTable(data);
+    }
+
+    function renderTable(dataArray) {
+      const tbody = document.getElementById("resultTable");
+      tbody.innerHTML = "";
+
+      dataArray.forEach(row => {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td>${row.Xep_Hang}</td>
+          <td>${row.So_BD}</td>
+          <td>${row.Ho_Ten}</td>
+          <td>${row.Truong_THCS}</td>
+          <td>${row.Diem_Van}</td>
+          <td>${row.Diem_Toan}</td>
+          <td>${row.Diem_Anh}</td>
+          <td>${row.Tong_Diem}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    document.getElementById("searchBox").addEventListener("input", e => {
+      const keyword = e.target.value.toLowerCase().trim();
+      const filtered = data.filter(item =>
+        item.Ho_Ten.toLowerCase().includes(keyword) ||
+        item.So_BD.toLowerCase().includes(keyword)
+      );
+      renderTable(filtered);
+    });
+
+    fetchData();
+  </script>
+</body>
+</html>
