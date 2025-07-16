@@ -8,15 +8,19 @@
     <link rel="stylesheet" href="css/style.css"> </head>
 <body>
     <header>
-        <div class="logo">hstravinh.io.vn</div>
+        <a href="index.html" class="logo">hstravinh.io.vn</a>
         <nav>
             <a href="index.html">Trang chủ</a>
-            <a href="tailieu/index.html">Tài liệu</a> <a href="tintuc/index.html">Tin tức</a> <a href="gioithieu.html">Giới thiệu</a> <a href="lienhe.html">Liên hệ</a> </nav>
+            <a href="tailieu/index.html">Tài liệu</a>
+            <a href="tintuc/index.html">Tin tức</a>
+            <a href="gioithieu.html">Giới thiệu</a>
+            <a href="lienhe.html">Liên hệ</a>
+        </nav>
     </header>
 
     <section class="hero">
         <h1>Nền tảng học tập dành cho học sinh Trà Vinh</h1>
-        <p>Hỗ trợ học tập hiệu quả, truy cập nhanh đến tài liệu và tin tức mới nhất.</p>
+        <p>Hỗ trợ học tập hiệu quả, truy cập nhanh đến tài liệu và tin tức mới nhất, giúp bạn vươn tới thành công.</p>
     </section>
 
     <section class="section">
@@ -24,23 +28,23 @@
         <div class="cards">
             <div class="card">
                 <h3>Toán học</h3>
-                <p>Tổng hợp công thức, bài tập nâng cao và đề thi thử THPT Quốc gia.</p>
-                <button onclick="location.href='tailieu/toan.html'">Xem chi tiết</button>
+                <p>Tổng hợp công thức, bài tập nâng cao và đề thi thử THPT Quốc gia các năm.</p>
+                <a href="tailieu/toan.html" class="button-link">Xem chi tiết</a>
             </div>
             <div class="card">
                 <h3>Ngữ Văn</h3>
-                <p>Phân tích tác phẩm, hướng dẫn làm văn và đề minh họa.</p>
-                <button onclick="location.href='tailieu/van.html'">Xem chi tiết</button>
+                <p>Phân tích tác phẩm, hướng dẫn làm văn và các bài văn mẫu, đề minh họa.</p>
+                <a href="tailieu/van.html" class="button-link">Xem chi tiết</a>
             </div>
             <div class="card">
                 <h3>Tiếng Anh</h3>
-                <p>Từ vựng chủ đề, ngữ pháp trọng tâm và luyện đề có đáp án.</p>
-                <button onclick="location.href='tailieu/anh.html'">Xem chi tiết</button>
+                <p>Từ vựng theo chủ đề, ngữ pháp trọng tâm và luyện đề thi có đáp án chi tiết.</p>
+                <a href="tailieu/anh.html" class="button-link">Xem chi tiết</a>
             </div>
-             <div class="card">
+            <div class="card">
                 <h3>Lịch Sử</h3>
-                <p>Ôn tập các giai đoạn lịch sử trọng điểm theo chương trình THPT.</p>
-                <button onclick="location.href='tailieu/su.html'">Xem chi tiết</button>
+                <p>Ôn tập các giai đoạn lịch sử trọng điểm theo chương trình THPT, các sự kiện quan trọng.</p>
+                <a href="tailieu/su.html" class="button-link">Xem chi tiết</a>
             </div>
         </div>
         <p style="text-align: center; margin-top: 30px;"><a href="tailieu/index.html" class="button-link">Xem tất cả tài liệu</a></p>
@@ -50,28 +54,34 @@
         <h2>Tin tức và Sự kiện</h2>
         <div class="news">
             <div class="news-item">
-                <img src="images/tintuc1.jpg" alt="Tin tức 1">
-                <h4>Kỳ thi THPT Quốc gia 2025</h4>
-                <p>Bộ GD&ĐT công bố lịch thi chính thức và hướng dẫn ôn tập từ tháng 7.</p>
-                <a href="tintuc/bai-viet-1.html">Đọc thêm</a>
+                <img src="images/tintuc1.jpg" alt="Kỳ thi THPT Quốc gia 2025">
+                <div class="news-content">
+                    <h4>Kỳ thi THPT Quốc gia 2025</h4>
+                    <p>Bộ GD&ĐT công bố lịch thi chính thức và hướng dẫn ôn tập từ tháng 7 dành cho thí sinh.</p>
+                    <a href="tintuc/bai-viet-1.html">Đọc thêm</a>
+                </div>
             </div>
             <div class="news-item">
-                <img src="images/tintuc2.jpg" alt="Tin tức 2">
-                <h4>Hướng dẫn ôn tập học kỳ</h4>
-                <p>Giáo viên Trường THPT chuyên Trà Vinh chia sẻ bí quyết ôn hiệu quả.</p>
-                <a href="tintuc/bai-viet-2.html">Đọc thêm</a>
+                <img src="images/tintuc2.jpg" alt="Hướng dẫn ôn tập học kỳ">
+                <div class="news-content">
+                    <h4>Hướng dẫn ôn tập học kỳ hiệu quả</h4>
+                    <p>Giáo viên Trường THPT chuyên Trà Vinh chia sẻ bí quyết ôn hiệu quả để đạt điểm cao.</p>
+                    <a href="tintuc/bai-viet-2.html">Đọc thêm</a>
+                </div>
             </div>
             <div class="news-item">
-                <img src="images/tintuc3.jpg" alt="Tin tức 3">
-                <h4>Sự kiện Khoa học - STEM</h4>
-                <p>Học sinh trải nghiệm các thí nghiệm vật lý và sáng tạo công nghệ.</p>
-                <a href="tintuc/bai-viet-3.html">Đọc thêm</a>
+                <img src="images/tintuc3.jpg" alt="Sự kiện Khoa học - STEM">
+                <div class="news-content">
+                    <h4>Sự kiện Khoa học - STEM 2024</h4>
+                    <p>Học sinh trải nghiệm các thí nghiệm vật lý và sáng tạo công nghệ tại Trà Vinh.</p>
+                    <a href="tintuc/bai-viet-3.html">Đọc thêm</a>
+                </div>
             </div>
         </div>
         <p style="text-align: center; margin-top: 30px;"><a href="tintuc/index.html" class="button-link">Xem tất cả tin tức</a></p>
     </section>
 
-    <footer id="lienhe">
+    <footer>
         <p>&copy; 2025 hstravinh.io.vn - Thiết kế bởi Nhóm Hỗ trợ Học sinh Trà Vinh.</p>
         <p>
             <a href="#">Facebook</a>
