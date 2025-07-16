@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>THCS Ngũ Lạc - hstravinh.io.vn</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --main-blue: #0066cc;
+      --light-blue: #e0f0ff;
+      --hover-blue: #004c99;
+      --text-color: #002244;
+      --bg-white: #ffffff;
+      --shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background-color: #f3f8fd;
+      color: var(--text-color);
+    }
+
+    header {
+      background-color: var(--main-blue);
+      padding: 15px 25px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      color: white;
+    }
+
+    .logo {
+      font-size: 24px;
+      font-weight: bold;
+    }
+
+    nav a {
+      margin: 0 10px;
+      color: white;
+      text-decoration: none;
+      padding: 8px 12px;
+      border-radius: 4px;
+      transition: background 0.3s;
+    }
+
+    nav a:hover {
+      background-color: var(--hover-blue);
+    }
+
+    .hero {
+      background: linear-gradient(to right, #e0f0ff, #cce6ff);
+      padding: 80px 20px 60px;
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: 38px;
+      margin-bottom: 12px;
+    }
+
+    .hero p {
+      font-size: 18px;
+    }
+
+    .section {
+      padding: 50px 30px;
+      max-width: 1100px;
+      margin: auto;
+    }
+
+    .section h2 {
+      font-size: 30px;
+      margin-bottom: 20px;
+      border-bottom: 3px solid var(--main-blue);
+      display: inline-block;
+    }
+
+    .about, .contact {
+      background-color: var(--light-blue);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: var(--shadow);
+    }
+
+    .news {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+
+    .news-item {
+      background-color: var(--bg-white);
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: var(--shadow);
+      transition: transform 0.3s ease;
+    }
+
+    .news-item:hover {
+      transform: translateY(-5px);
+    }
+
+    footer {
+      background-color: var(--main-blue);
+      color: white;
+      text-align: center;
+      padding: 25px 15px;
+    }
+
+    @media (max-width: 600px) {
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      nav {
+        margin-top: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">THCS Ngũ Lạc</div>
+    <nav>
+      <a href="#">Trang chủ</a>
+      <a href="#gioithieu">Giới thiệu</a>
+      <a href="#tintuc">Tin tức</a>
+      <a href="#lienhe">Liên hệ</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Chào mừng đến với Trường THCS Ngũ Lạc</h1>
+    <p>Nơi nuôi dưỡng tri thức và phát triển tương lai thế hệ trẻ</p>
+  </section>
+
+  <section class="section" id="gioithieu">
+    <h2>Giới thiệu</h2>
+    <div class="about">
+      <p>Trường Trung học Cơ sở Ngũ Lạc thuộc tỉnh Vĩnh Long là một trong những đơn vị giáo dục trọng điểm của khu vực. Với đội ngũ giáo viên tận tâm, cơ sở vật chất ngày càng được nâng cấp, nhà trường không ngừng đổi mới phương pháp giảng dạy, khuyến khích sáng tạo và học tập chủ động từ học sinh.</p>
+    </div>
+  </section>
+
+  <section class="section" id="tintuc">
+    <h2>Tin tức hoạt động</h2>
+    <div class="news">
+      <div class="news-item">
+        <h3>Hội thi học sinh giỏi cấp huyện</h3>
+        <p>Trường THCS Ngũ Lạc vinh dự có 5 em đạt giải trong kỳ thi học sinh giỏi môn Toán, Văn và Tiếng Anh cấp huyện năm học 2024-2025.</p>
+      </div>
+      <div class="news-item">
+        <h3>Ngày hội STEM sáng tạo</h3>
+        <p>Học sinh toàn trường đã tích cực tham gia ngày hội STEM với các mô hình khoa học ứng dụng thực tiễn và ý tưởng sáng tạo thú vị.</p>
+      </div>
+      <div class="news-item">
+        <h3>Hoạt động ngoại khóa "Em yêu biển đảo"</h3>
+        <p>Buổi ngoại khóa giáo dục truyền thống yêu nước, hiểu biết về chủ quyền biển đảo Việt Nam được tổ chức thành công tốt đẹp.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="lienhe">
+    <h2>Liên hệ</h2>
+    <div class="contact">
+      <p><strong>Địa chỉ:</strong> Ấp Rọ say, xã Ngũ Lạc, tỉnh Vĩnh Long</p>
+      <p><strong>Điện thoại:</strong>  </p>
+      <p><strong>Email:</strong>  </p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Trường THCS Ngũ Lạc | Thiết kế bởi hstravinh.io.vn</p>
+  </footer>
+</body>
+</html>
