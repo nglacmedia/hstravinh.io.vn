@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>hstravinh.io.vn - Nền tảng học tập Trà Vinh</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --main-blue: #007acc;
+      --light-blue: #e6f4fa;
+      --hover-blue: #005fa3;
+      --bg-white: #ffffff;
+      --text-color: #003366;
+      --shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Roboto', sans-serif;
+      background-color: #f9fbfd;
+      color: var(--text-color);
+    }
+
+    header {
+      background-color: var(--main-blue);
+      padding: 15px 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      color: white;
+    }
+
+    .logo {
+      font-size: 26px;
+      font-weight: bold;
+    }
+
+    nav a {
+      margin: 0 12px;
+      text-decoration: none;
+      color: white;
+      font-weight: 500;
+      padding: 8px 12px;
+      border-radius: 4px;
+      transition: background 0.3s ease;
+    }
+
+    nav a:hover {
+      background-color: var(--hover-blue);
+    }
+
+    .hero {
+      background: linear-gradient(to right, #e6f4fa, #d1eaf6);
+      padding: 80px 20px 60px;
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-size: 40px;
+      margin-bottom: 10px;
+    }
+
+    .hero p {
+      font-size: 18px;
+    }
+
+    .section {
+      padding: 60px 30px;
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    .section h2 {
+      font-size: 32px;
+      margin-bottom: 30px;
+      border-bottom: 3px solid var(--main-blue);
+      display: inline-block;
+    }
+
+    .cards, .news {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 25px;
+    }
+
+    .card, .news-item {
+      background-color: var(--bg-white);
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: var(--shadow);
+      transition: transform 0.3s;
+    }
+
+    .card:hover, .news-item:hover {
+      transform: translateY(-5px);
+    }
+
+    .card h3, .news-item h4 {
+      margin-top: 0;
+      color: var(--main-blue);
+    }
+
+    .card p, .news-item p {
+      font-size: 15px;
+      line-height: 1.5;
+    }
+
+    .card button {
+      background-color: var(--main-blue);
+      color: white;
+      border: none;
+      padding: 10px 18px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background 0.3s;
+      margin-top: 10px;
+    }
+
+    .card button:hover {
+      background-color: var(--hover-blue);
+    }
+
+    .news-item img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 8px;
+      margin-bottom: 12px;
+    }
+
+    .intro {
+      font-size: 17px;
+      max-width: 900px;
+      margin: auto;
+      line-height: 1.6;
+      background: var(--light-blue);
+      padding: 30px;
+      border-radius: 10px;
+    }
+
+    footer {
+      background-color: var(--main-blue);
+      color: white;
+      text-align: center;
+      padding: 30px 15px;
+    }
+
+    footer a {
+      color: white;
+      text-decoration: underline;
+      margin: 0 8px;
+    }
+
+    @media (max-width: 600px) {
+      header {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      nav {
+        margin-top: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="logo">hstravinh.io.vn</div>
+    <nav>
+      <a href="#">Trang chủ</a>
+      <a href="#tailieu">Tài liệu</a>
+      <a href="#tintuc">Tin tức</a>
+      <a href="#gioithieu">Giới thiệu</a>
+      <a href="#lienhe">Liên hệ</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Nền tảng học tập dành cho học sinh Trà Vinh</h1>
+    <p>Hỗ trợ học tập hiệu quả, truy cập nhanh đến tài liệu và tin tức mới nhất.</p>
+  </section>
+
+  <section class="section" id="tailieu">
+    <h2>Tài liệu học tập</h2>
+    <div class="cards">
+      <div class="card">
+        <h3>Toán học</h3>
+        <p>Tổng hợp công thức, bài tập nâng cao và đề thi thử THPT Quốc gia.</p>
+        <button onclick="location.href='tailieu/toan.html'">Xem thêm</button>
+      </div>
+      <div class="card">
+        <h3>Ngữ Văn</h3>
+        <p>Phân tích tác phẩm, hướng dẫn làm văn và đề minh họa.</p>
+        <button onclick="location.href='tailieu/van.html'">Xem thêm</button>
+      </div>
+      <div class="card">
+        <h3>Tiếng Anh</h3>
+        <p>Từ vựng chủ đề, ngữ pháp trọng tâm và luyện đề có đáp án.</p>
+        <button onclick="location.href='tailieu/anh.html'">Xem thêm</button>
+      </div>
+      <div class="card">
+        <h3>Lịch Sử</h3>
+        <p>Ôn tập các giai đoạn lịch sử trọng điểm theo chương trình THPT.</p>
+        <button onclick="location.href='tailieu/su.html'">Xem thêm</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="tintuc">
+    <h2>Tin tức mới nhất</h2>
+    <div class="news">
+      <div class="news-item">
+        <img src="images/tintuc1.jpg" alt="Tin tức 1">
+        <h4>Kỳ thi THPT Quốc gia 2025</h4>
+        <p>Bộ GD&ĐT công bố lịch thi chính thức và hướng dẫn ôn tập từ tháng 7.</p>
+      </div>
+      <div class="news-item">
+        <img src="images/tintuc2.jpg" alt="Tin tức 2">
+        <h4>Hướng dẫn ôn tập học kỳ</h4>
+        <p>Giáo viên Trường THPT chuyên Trà Vinh chia sẻ bí quyết ôn hiệu quả.</p>
+      </div>
+      <div class="news-item">
+        <img src="images/tintuc3.jpg" alt="Tin tức 3">
+        <h4>Sự kiện Khoa học - STEM</h4>
+        <p>Học sinh trải nghiệm các thí nghiệm vật lý và sáng tạo công nghệ.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="gioithieu">
+    <h2>Giới thiệu</h2>
+    <div class="intro">
+      <p><strong>hstravinh.io.vn</strong> là một nền tảng học tập trực tuyến miễn phí, phục vụ học sinh tỉnh Trà Vinh với tài liệu phong phú, dễ tiếp cận và cập nhật liên tục. Chúng tôi cam kết mang đến giải pháp hỗ trợ học tập hiện đại, kết nối cộng đồng học sinh và giáo viên, góp phần nâng cao chất lượng giáo dục địa phương.</p>
+    </div>
+  </section>
+
+  <footer id="lienhe">
+    <p>&copy; 2025 hstravinh.io.vn - Thiết kế bởi Nhóm Hỗ trợ Học sinh Trà Vinh.</p>
+    <p>
+      <a href="#">Facebook</a>
+      <a href="#">YouTube</a>
+      <a href="#">Chính sách bảo mật</a>
+    </p>
+  </footer>
+</body>
+</html>
