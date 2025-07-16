@@ -1,72 +1,80 @@
 /* hstravinh_website/css/style.css */
 
+/* Định nghĩa các biến màu và kích thước */
 :root {
     --main-blue: #007acc; /* Xanh dương chủ đạo */
     --light-blue: #e6f4fa; /* Xanh lam nhạt */
     --hover-blue: #005fa3; /* Xanh dương đậm hơn khi hover */
-    --bg-white: #ffffff;
+    --bg-white: #ffffff; /* Nền trắng cho các khối */
     --text-color: #003366; /* Màu chữ xanh đậm */
     --shadow: 0 4px 15px rgba(0, 0, 0, 0.1); /* Bóng đổ cho các khối */
-    --border-radius: 8px;
+    --border-radius: 8px; /* Bo góc cho các thành phần */
 }
 
-/* Reset CSS cơ bản */
+/* Reset CSS cơ bản - giúp trình duyệt hiển thị đồng nhất hơn */
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+    box-sizing: border-box; /* Tính toán kích thước bao gồm padding và border */
+    margin: 0; /* Loại bỏ margin mặc định của trình duyệt */
+    padding: 0; /* Loại bỏ padding mặc định của trình duyệt */
 }
 
+/* Định dạng chung cho Body */
 body {
-    font-family: 'Roboto', sans-serif;
-    background-color: #f9fbfd; /* Nền nhạt */
-    color: var(--text-color);
-    line-height: 1.6;
+    font-family: 'Roboto', sans-serif; /* Sử dụng font Roboto, nếu không có thì dùng sans-serif */
+    background-color: #f9fbfd; /* Màu nền rất nhạt cho toàn trang */
+    color: var(--text-color); /* Màu chữ mặc định */
+    line-height: 1.6; /* Chiều cao dòng cho dễ đọc */
+    min-height: 100vh; /* Đảm bảo body chiếm toàn bộ chiều cao viewport */
+    display: flex;
+    flex-direction: column; /* Sắp xếp nội dung theo cột */
 }
 
 /* Header */
 header {
-    background-color: var(--main-blue);
+    background-color: var(--main-blue); /* Màu nền xanh chủ đạo */
     padding: 15px 30px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-wrap: wrap; /* Cho phép xuống dòng trên màn hình nhỏ */
-    color: white;
-    box-shadow: var(--shadow);
+    display: flex; /* Sử dụng flexbox để sắp xếp các mục */
+    justify-content: space-between; /* Đặt logo và nav ở hai đầu */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    flex-wrap: wrap; /* Cho phép các mục xuống dòng trên màn hình nhỏ */
+    color: white; /* Màu chữ trắng */
+    box-shadow: var(--shadow); /* Thêm bóng đổ nhẹ */
+    position: sticky; /* Giúp header dính khi cuộn trang */
+    top: 0;
+    z-index: 1000; /* Đảm bảo header nằm trên các phần tử khác */
 }
 
 .logo {
     font-size: 28px;
     font-weight: bold;
-    text-decoration: none;
+    text-decoration: none; /* Bỏ gạch chân cho link logo */
     color: white;
 }
 
 nav {
-    margin-top: 0; /* Đảm bảo không có margin trên cùng */
+    margin-top: 0;
 }
 
 nav a {
-    margin: 0 15px;
-    text-decoration: none;
+    margin: 0 15px; /* Khoảng cách giữa các link nav */
+    text-decoration: none; /* Bỏ gạch chân cho link nav */
     color: white;
     font-weight: 500;
     padding: 10px 15px;
-    border-radius: var(--border-radius);
-    transition: background 0.3s ease, transform 0.2s ease;
+    border-radius: var(--border-radius); /* Bo góc cho nút nav */
+    transition: background 0.3s ease, transform 0.2s ease; /* Hiệu ứng chuyển động mượt mà */
     display: inline-block; /* Để padding và margin hoạt động tốt */
 }
 
 nav a:hover {
-    background-color: var(--hover-blue);
-    transform: translateY(-2px);
+    background-color: var(--hover-blue); /* Màu nền khi hover */
+    transform: translateY(-2px); /* Hiệu ứng nhấc nhẹ lên khi hover */
 }
 
-/* Hero Section */
+/* Hero Section - Phần chào mừng lớn */
 .hero {
-    background: linear-gradient(to right, var(--light-blue), #d1eaf6);
-    padding: 100px 20px 80px;
+    background: linear-gradient(to right, var(--light-blue), #d1eaf6); /* Gradient màu nền */
+    padding: 100px 20px 80px; /* Padding trên dưới và hai bên */
     text-align: center;
     color: var(--text-color);
 }
@@ -74,36 +82,39 @@ nav a:hover {
 .hero h1 {
     font-size: 48px;
     margin-bottom: 15px;
-    color: var(--main-blue);
+    color: var(--main-blue); /* Màu chữ xanh chủ đạo */
 }
 
 .hero p {
     font-size: 20px;
-    max-width: 800px;
-    margin: 0 auto;
+    max-width: 800px; /* Giới hạn chiều rộng để dễ đọc */
+    margin: 0 auto; /* Căn giữa đoạn văn */
 }
 
-/* Sections chung */
+/* Sections chung - Các khối nội dung chính */
 .section {
     padding: 60px 30px;
-    max-width: 1200px;
-    margin: auto;
+    max-width: 1200px; /* Chiều rộng tối đa cho nội dung */
+    margin: auto; /* Căn giữa section trên trang */
+    flex-grow: 1; /* Cho phép section này mở rộng để đẩy footer xuống cuối */
 }
 
 .section h2 {
     font-size: 38px;
     margin-bottom: 40px;
-    border-bottom: 4px solid var(--main-blue);
-    display: inline-block;
-    padding-bottom: 10px;
+    border-bottom: 4px solid var(--main-blue); /* Đường kẻ dưới tiêu đề */
+    display: inline-block; /* Đảm bảo đường kẻ chỉ rộng bằng chữ */
+    padding-bottom: 10px; /* Khoảng cách giữa chữ và đường kẻ */
     color: var(--main-blue);
+    text-align: center; /* Có thể căn giữa tiêu đề nếu muốn */
+    width: 100%; /* Đảm bảo span hết chiều rộng */
 }
 
-/* Card layout (cho Tài liệu) */
+/* Card layout (cho Tài liệu học tập) */
 .cards {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 30px;
+    display: grid; /* Sử dụng Grid layout */
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Tự động chia cột */
+    gap: 30px; /* Khoảng cách giữa các card */
 }
 
 .card {
@@ -111,15 +122,15 @@ nav a:hover {
     border-radius: var(--border-radius);
     padding: 25px;
     box-shadow: var(--shadow);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Hiệu ứng khi hover */
     display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+    flex-direction: column; /* Nội dung bên trong xếp chồng lên nhau */
+    justify-content: space-between; /* Đẩy nút xuống dưới cùng */
 }
 
 .card:hover {
-    transform: translateY(-8px);
-    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    transform: translateY(-8px); /* Nhấc card lên khi hover */
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15); /* Bóng đổ đậm hơn khi hover */
 }
 
 .card h3 {
@@ -132,11 +143,11 @@ nav a:hover {
 .card p {
     font-size: 16px;
     line-height: 1.6;
-    flex-grow: 1; /* Để paragraph chiếm hết không gian còn lại */
+    flex-grow: 1; /* Để đoạn văn chiếm hết không gian còn lại */
     margin-bottom: 20px;
 }
 
-.card .button-link { /* Nút "Xem thêm" trong card */
+.card .button-link { /* Nút "Xem chi tiết" trong card */
     display: inline-block;
     text-align: center;
     width: auto; /* Điều chỉnh lại width */
@@ -144,10 +155,10 @@ nav a:hover {
     padding: 12px 25px;
     border: none;
     cursor: pointer;
-    text-decoration: none; /* đảm bảo không có gạch chân */
+    text-decoration: none; /* Đảm bảo không có gạch chân */
 }
 
-/* News layout (cho Tin tức) */
+/* News layout (cho Tin tức mới nhất) */
 .news {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -160,6 +171,8 @@ nav a:hover {
     box-shadow: var(--shadow);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     overflow: hidden; /* Đảm bảo ảnh không tràn ra ngoài border-radius */
+    display: flex;
+    flex-direction: column;
 }
 
 .news-item:hover {
@@ -176,6 +189,10 @@ nav a:hover {
 
 .news-content {
     padding: 20px;
+    flex-grow: 1; /* Để phần nội dung chiếm hết không gian còn lại */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .news-item h4 {
@@ -189,6 +206,7 @@ nav a:hover {
     font-size: 15px;
     line-height: 1.5;
     margin-bottom: 15px;
+    flex-grow: 1;
 }
 
 .news-item a { /* Link "Đọc thêm" */
@@ -196,7 +214,7 @@ nav a:hover {
     color: var(--main-blue);
     text-decoration: none;
     font-weight: bold;
-    transition: color 0.3s ease;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
 }
 
 .news-item a:hover {
@@ -204,11 +222,11 @@ nav a:hover {
     text-decoration: underline;
 }
 
-/* About/Intro Section */
+/* About/Intro Section - Phần giới thiệu chung hoặc chi tiết bài viết */
 .intro {
     font-size: 18px;
     max-width: 900px;
-    margin: 30px auto; /* Để có khoảng cách với các phần khác */
+    margin: 30px auto;
     line-height: 1.7;
     background: var(--light-blue);
     padding: 40px;
@@ -217,6 +235,75 @@ nav a:hover {
     text-align: center; /* Giúp nội dung ở giữa */
 }
 
+/* Dành cho trang chi tiết bài viết / tài liệu */
+.content-detail {
+    background-color: var(--bg-white);
+    border-radius: var(--border-radius);
+    padding: 30px;
+    box-shadow: var(--shadow);
+    line-height: 1.7;
+    max-width: 900px;
+    margin: 0 auto;
+}
+.content-detail img {
+    max-width: 100%;
+    height: auto;
+    border-radius: var(--border-radius);
+    margin-bottom: 25px;
+    display: block; /* Đảm bảo ảnh không có khoảng trắng dưới */
+}
+.content-detail h3 {
+    color: var(--main-blue);
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 24px;
+}
+.content-detail p {
+    margin-bottom: 15px;
+}
+.content-detail ul {
+    list-style-type: disc; /* Dấu chấm tròn cho danh sách */
+    margin-left: 20px;
+    margin-bottom: 15px;
+}
+.content-detail li {
+    margin-bottom: 5px;
+}
+/* Style cho form liên hệ nếu có */
+.netlify-form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+.netlify-form input[type="text"],
+.netlify-form input[type="email"],
+.netlify-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.netlify-form textarea {
+    resize: vertical; /* Cho phép thay đổi kích thước theo chiều dọc */
+}
+.netlify-form button[type="submit"] {
+    background-color: var(--main-blue);
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background 0.3s ease;
+}
+.netlify-form button[type="submit"]:hover {
+    background-color: var(--hover-blue);
+}
+
+
 /* Footer */
 footer {
     background-color: var(--main-blue);
@@ -224,6 +311,7 @@ footer {
     text-align: center;
     padding: 40px 15px;
     font-size: 15px;
+    margin-top: auto; /* Đẩy footer xuống cuối trang */
 }
 
 footer a {
@@ -242,7 +330,7 @@ footer a:hover {
     margin-top: 20px;
 }
 
-/* Responsive Design */
+/* Responsive Design - Điều chỉnh giao diện cho các kích thước màn hình khác nhau */
 @media (max-width: 992px) {
     .section h2 {
         font-size: 32px;
@@ -254,7 +342,7 @@ footer a:hover {
 
 @media (max-width: 768px) {
     header {
-        flex-direction: column;
+        flex-direction: column; /* Header xếp chồng các mục */
         padding: 15px 20px;
     }
     nav {
@@ -265,6 +353,7 @@ footer a:hover {
     nav a {
         margin: 5px 10px;
         padding: 8px 12px;
+        font-size: 15px;
     }
     .hero {
         padding: 60px 15px 50px;
@@ -291,7 +380,7 @@ footer a:hover {
     .news-item h4 {
         font-size: 18px;
     }
-    .intro {
+    .intro, .content-detail {
         font-size: 16px;
         padding: 30px;
     }
