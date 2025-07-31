@@ -1,184 +1,139 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <a href="index.html" class="logo">
-    <img src="images/LOGO_SO_GIAO_DUC_VL_5c604.png" alt="Logo Sở Giáo dục Trà Vinh" style="height: 50px;">
-</a>
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <style>
-    :root {
-      --main-blue: #0066cc;
-      --light-blue: #e0f0ff;
-      --hover-blue: #004c99;
-      --text-color: #002244;
-      --bg-white: #ffffff;
-      --shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    }
-
-    * {
-      box-sizing: border-box;
-    }
-
-    body {
-      margin: 0;
-      font-family: 'Roboto', sans-serif;
-      background-color: #f3f8fd;
-      color: var(--text-color);
-    }
-
-    header {
-      background-color: var(--main-blue);
-      padding: 15px 25px;
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      flex-wrap: wrap;
-      color: white;
-    }
-
-    .logo {
-      font-size: 24px;
-      font-weight: bold;
-    }
-
-    nav a {
-      margin: 0 10px;
-      color: white;
-      text-decoration: none;
-      padding: 8px 12px;
-      border-radius: 4px;
-      transition: background 0.3s;
-    }
-
-    nav a:hover {
-      background-color: var(--hover-blue);
-    }
-
-    .hero {
-      background: linear-gradient(to right, #e0f0ff, #cce6ff);
-      padding: 80px 20px 60px;
-      text-align: center;
-    }
-
-    .hero h1 {
-      font-size: 38px;
-      margin-bottom: 12px;
-    }
-
-    .hero p {
-      font-size: 18px;
-    }
-
-    .section {
-      padding: 50px 30px;
-      max-width: 1100px;
-      margin: auto;
-    }
-
-    .section h2 {
-      font-size: 30px;
-      margin-bottom: 20px;
-      border-bottom: 3px solid var(--main-blue);
-      display: inline-block;
-    }
-
-    .about, .contact {
-      background-color: var(--light-blue);
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: var(--shadow);
-    }
-
-    .news {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-      gap: 20px;
-    }
-
-    .news-item {
-      background-color: var(--bg-white);
-      padding: 20px;
-      border-radius: 10px;
-      box-shadow: var(--shadow);
-      transition: transform 0.3s ease;
-    }
-
-    .news-item:hover {
-      transform: translateY(-5px);
-    }
-
-    footer {
-      background-color: var(--main-blue);
-      color: white;
-      text-align: center;
-      padding: 25px 15px;
-    }
-
-    @media (max-width: 600px) {
-      header {
-        flex-direction: column;
-        align-items: flex-start;
-      }
-      nav {
-        margin-top: 10px;
-      }
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trường THCS Ngũ Lạc - Nơi Ươm Mầm Tri Thức</title>
+    <link rel="icon" href="images/favicon.png" type="image/png">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-  <header>
-    <div class="logo">THCS Ngũ Lạc</div>
-    <nav>
-      <a href="#">Trang chủ</a>
-      <a href="#gioithieu">Giới thiệu</a>
-      <a href="#tintuc">Tin tức</a>
-      <a href="#lienhe">Liên hệ</a>
-    </nav>
-  </header>
 
-  <section class="hero">
-    <h1>Chào mừng đến với Trường THCS Ngũ Lạc</h1>
-    <p>Nơi nuôi dưỡng tri thức và phát triển tương lai thế hệ trẻ</p>
-  </section>
+    <header class="main-header">
+        <div class="container">
+            <div class="logo">
+                <a href="index.html">
+                    <img src="images/LOGO_SO_GIAO_DUC_VL_5c604.png" alt="Logo THCS Ngũ Lạc">
+                    <h1>THCS Ngũ Lạc</h1>
+                </a>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html" class="active">Trang chủ</a></li>
+                    <li><a href="gioi-thieu.html">Giới thiệu</a></li>
+                    <li><a href="tin-tuc.html">Tin tức & Sự kiện</a></li>
+                    <li><a href="chuong-trinh-dao-tao.html">Chương trình đào tạo</a></li>
+                    <li><a href="thu-vien.html">Thư viện</a></li>
+                    <li><a href="lien-he.html">Liên hệ</a></li>
+                </ul>
+            </nav>
+            <button class="mobile-menu-toggle" aria-label="Mở menu">
+                <i class="fas fa-bars"></i>
+            </button>
+        </div>
+    </header>
 
-  <section class="section" id="gioithieu">
-    <h2>Giới thiệu</h2>
-    <div class="about">
-      <p>Trường Trung học Cơ sở Ngũ Lạc thuộc tỉnh Vĩnh Long là một trong những đơn vị giáo dục trọng điểm của khu vực. Với đội ngũ giáo viên tận tâm, cơ sở vật chất ngày càng được nâng cấp, nhà trường không ngừng đổi mới phương pháp giảng dạy, khuyến khích sáng tạo và học tập chủ động từ học sinh.</p>
-    </div>
-  </section>
+    <section class="hero-section">
+        <div class="hero-content">
+            <h2>Chào Mừng Đến Với Trường THCS Ngũ Lạc</h2>
+            <p>Nơi ươm mầm tri thức, chắp cánh ước mơ cho thế hệ tương lai.</p>
+            <a href="gioi-thieu.html" class="btn btn-primary">Tìm hiểu thêm</a>
+        </div>
+    </section>
 
-  <section class="section" id="tintuc">
-    <h2>Tin tức hoạt động</h2>
-    <div class="news">
-      <div class="news-item">
-        <h3>Hội thi học sinh giỏi cấp huyện</h3>
-        <p>Trường THCS Ngũ Lạc vinh dự có 5 em đạt giải trong kỳ thi học sinh giỏi môn Toán, Văn và Tiếng Anh cấp huyện năm học 2024-2025.</p>
-      </div>
-      <div class="news-item">
-        <h3>Ngày hội STEM sáng tạo</h3>
-        <p>Học sinh toàn trường đã tích cực tham gia ngày hội STEM với các mô hình khoa học ứng dụng thực tiễn và ý tưởng sáng tạo thú vị.</p>
-      </div>
-      <div class="news-item">
-        <h3>Hoạt động ngoại khóa "Em yêu biển đảo"</h3>
-        <p>Buổi ngoại khóa giáo dục truyền thống yêu nước, hiểu biết về chủ quyền biển đảo Việt Nam được tổ chức thành công tốt đẹp.</p>
-      </div>
-    </div>
-  </section>
+    <section class="announcements-events-section section-padding">
+        <div class="container">
+            <h2>Thông báo & Sự kiện Sắp tới</h2>
+            <div class="announcements-list">
+                <article class="announcement-item">
+                    <h3><a href="thong-bao-tuyen-sinh-2025.html">Thông báo tuyển sinh năm học 2025-2026</a></h3>
+                    <p class="date"><i class="far fa-calendar-alt"></i> 30/07/2025</p>
+                    <p>Nhà trường thông báo kế hoạch tuyển sinh lớp 6 năm học mới. Kính mời quý phụ huynh xem chi tiết...</p>
+                    <a href="thong-bao-tuyen-sinh-2025.html" class="read-more">Xem chi tiết <i class="fas fa-arrow-right"></i></a>
+                </article>
+                <article class="announcement-item">
+                    <h3><a href="lich-hop-phu-huynh-thang-8.html">Lịch họp phụ huynh toàn trường tháng 8</a></h3>
+                    <p class="date"><i class="far fa-calendar-alt"></i> 28/07/2025</p>
+                    <p>Ban giám hiệu và hội phụ huynh học sinh sẽ tổ chức cuộc họp đầu năm vào ngày 15/08/2025...</p>
+                    <a href="lich-hop-phu-huynh-thang-8.html" class="read-more">Xem chi tiết <i class="fas fa-arrow-right"></i></a>
+                </article>
+                <article class="announcement-item">
+                    <h3><a href="ket-qua-ky-thi-hoc-sinh-gioi.html">Kết quả kỳ thi Học sinh Giỏi cấp Huyện</a></h3>
+                    <p class="date"><i class="far fa-calendar-alt"></i> 20/07/2025</p>
+                    <p>Xin chúc mừng các em học sinh đã đạt thành tích cao trong kỳ thi HSG cấp Huyện vừa qua...</p>
+                    <a href="ket-qua-ky-thi-hoc-sinh-gioi.html" class="read-more">Xem chi tiết <i class="fas fa-arrow-right"></i></a>
+                </article>
+            </div>
+            <div class="view-all-btn">
+                <a href="thong-bao.html" class="btn btn-secondary">Xem tất cả thông báo</a>
+            </div>
+        </div>
+    </section>
 
-  <section class="section" id="lienhe">
-    <h2>Liên hệ</h2>
-    <div class="contact">
-      <p><strong>Địa chỉ:</strong> Ấp Rọ say, xã Ngũ Lạc, tỉnh Vĩnh Long</p>
-      <p><strong>Điện thoại:</strong>  </p>
-      <p><strong>Email:</strong>  </p>
-    </div>
-  </section>
+    <section class="why-choose-us-section section-padding bg-light">
+        <div class="container">
+            <h2>Tại sao chọn THCS Ngũ Lạc?</h2>
+            <div class="features-grid">
+                <div class="feature-item">
+                    <i class="fas fa-chalkboard-teacher"></i>
+                    <h3>Đội ngũ Giáo viên Tận tâm</h3>
+                    <p>Giáo viên giỏi chuyên môn, giàu kinh nghiệm, luôn hết lòng vì học sinh.</p>
+                </div>
+                <div class="feature-item">
+                    <i class="fas fa-book-open"></i>
+                    <h3>Chương trình Học tập Nâng cao</h3>
+                    <p>Giáo trình chuẩn Bộ GD&ĐT kết hợp phương pháp giảng dạy hiện đại.</p>
+                </div>
+                <div class="feature-item">
+                    <i class="fas fa-futbol"></i>
+                    <h3>Hoạt động Ngoại khóa Đa dạng</h3>
+                    <p>Phát triển toàn diện kỹ năng mềm, thể chất và năng khiếu cho học sinh.</p>
+                </div>
+                <div class="feature-item">
+                    <i class="fas fa-graduation-cap"></i>
+                    <h3>Cơ sở vật chất Hiện đại</h3>
+                    <p>Phòng học thoáng mát, thư viện, phòng thí nghiệm đầy đủ tiện nghi.</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
-  <footer>
-    <p>&copy; 2025 Trường THCS Ngũ Lạc | Thiết kế bởi hstravinh.io.vn</p>
-  </footer>
+    <footer class="main-footer">
+        <div class="container">
+            <div class="footer-col">
+                <h3>Trường THCS Ngũ Lạc</h3>
+                <p> Xã Ngũ Lạc, Huyện Duyên Hải, Tỉnh Vĩnh Long</p>
+                <p>Điện thoại:</p>
+                <p>Email:</p>
+            </div>
+            <div class="footer-col">
+                <h3>Liên kết nhanh</h3>
+                <ul>
+                    <li><a href="index.html">Trang chủ</a></li>
+                    <li><a href="tin-tuc.html">Tin tức</a></li>
+                    <li><a href="thong-bao.html">Thông báo</a></li>
+                    <li><a href="tuyen-sinh.html">Tuyển sinh</a></li>
+                    <li><a href="lien-he.html">Liên hệ</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h3>Theo dõi chúng tôi</h3>
+                <div class="social-icons">
+                    <a href="#" aria-label="https://www.facebook.com/hocsinhtruongthcsnhulack"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#" aria-label="Youtube"><i class="fab fa-youtube"></i></a>
+                    <a href="#" aria-label="Zalo"><i class="fas fa-comment-dots"></i></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Trường THCS Ngũ Lạc. Bảo lưu mọi quyền.</p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script>
 </body>
 </html>
