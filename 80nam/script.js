@@ -1,4 +1,4 @@
-const quizData = [
+const allQuizData = [
     {
         question: "1. Chiến tranh thế giới thứ hai (1939-1945) kết thúc bằng sự kiện nào sau đây?",
         options: {
@@ -397,7 +397,7 @@ const quizData = [
             c: "Hơn 80 năm",
             d: "Gần 100 năm"
         },
-        correctAnswer: "c"
+        correctAnswer: "d"
     },
     {
         question: "41. Cách mạng Tháng Tám năm 1945 ở Việt Nam đã chấm dứt ách thống trị của lực lượng nào trong gần 5 năm?",
@@ -417,7 +417,7 @@ const quizData = [
             c: "Chế độ tư bản",
             d: "Chế độ thực dân"
         },
-        correctAnswer: "b"
+        correctAnswer: "a"
     },
     {
         question: "43. Sự ra đời của nước Việt Nam Dân chủ Cộng hòa đã xác lập một nhà nước mới do ai làm chủ?",
@@ -1206,9 +1206,35 @@ const quizForm = document.getElementById('quiz-form');
 const resultsContainer = document.getElementById('results-container');
 const scoreText = document.getElementById('score-text');
 const feedbackContainer = document.getElementById('feedback-container');
+const randomQuizButton = document.getElementById('random-quiz-button');
+const fullQuizButton = document.getElementById('full-quiz-button');
 
-function buildQuiz() {
-    quizData.forEach((quiz, index) => {
+let currentQuizData = [];
+
+// Fisher-Yates shuffle algorithm
+function shuffle(array) {
+    let currentIndex = array.length, randomIndex;
+    while (currentIndex !== 0) {
+        randomIndex = Math.floor(Math.random() * currentIndex);
+        currentIndex--;
+        [array[currentIndex], array[randomIndex]] = [array[randomIndex], array[currentIndex]];
+    }
+    return array;
+}
+
+function getRandomQuestions(num) {
+    const shuffledData = shuffle([...allQuizData]);
+    return shuffledData.slice(0, num);
+}
+
+function buildQuiz(questionsArray) {
+    questionsContainer.innerHTML = ''; // Clear previous questions
+    feedbackContainer.innerHTML = ''; // Clear previous feedback
+    resultsContainer.style.display = 'none'; // Hide results
+    
+    currentQuizData = questionsArray;
+    
+    questionsArray.forEach((quiz, index) => {
         const questionCard = document.createElement('div');
         questionCard.classList.add('question-card');
         
@@ -1232,7 +1258,7 @@ function buildQuiz() {
                 
                 const label = document.createElement('label');
                 label.htmlFor = `q${index}-${key}`;
-                label.textContent = quiz.options[key];
+                label.textContent = `${key.toUpperCase()}. ${quiz.options[key]}`;
                 
                 optionItem.appendChild(radioInput);
                 optionItem.appendChild(label);
@@ -1250,17 +1276,21 @@ function showResults() {
     const answerContainers = questionsContainer.querySelectorAll('.question-card');
     let score = 0;
 
-    quizData.forEach((currentQuestion, questionNumber) => {
+    currentQuizData.forEach((currentQuestion, questionNumber) => {
         const answerContainer = answerContainers[questionNumber];
         const selector = `input[name=q${questionNumber}]:checked`;
         const userAnswer = (answerContainer.querySelector(selector) || {}).value;
 
         const options = answerContainer.querySelectorAll('.option');
+        
+        // Highlight correct and incorrect answers
         options.forEach(option => {
-            if (option.querySelector('input').value === currentQuestion.correctAnswer) {
+            const optionValue = option.querySelector('input').value;
+            if (optionValue === currentQuestion.correctAnswer) {
                 option.classList.add('correct');
-            } else {
-                option.classList.add('incorrect');
+            }
+            if (userAnswer && optionValue === userAnswer && userAnswer !== currentQuestion.correctAnswer) {
+                 option.classList.add('incorrect');
             }
         });
 
@@ -1270,12 +1300,23 @@ function showResults() {
     });
 
     resultsContainer.style.display = 'block';
-    scoreText.textContent = `Bạn đã trả lời đúng ${score} trên tổng số ${quizData.length} câu.`;
+    scoreText.textContent = `Bạn đã trả lời đúng ${score} trên tổng số ${currentQuizData.length} câu.`;
 }
 
-buildQuiz();
-
+// Event Listeners
 quizForm.addEventListener('submit', (e) => {
     e.preventDefault();
     showResults();
 });
+
+randomQuizButton.addEventListener('click', () => {
+    const randomQuestions = getRandomQuestions(20);
+    buildQuiz(randomQuestions);
+});
+
+fullQuizButton.addEventListener('click', () => {
+    buildQuiz(allQuizData);
+});
+
+// Initial load: show the full 120-question quiz
+buildQuiz(allQuizData);
